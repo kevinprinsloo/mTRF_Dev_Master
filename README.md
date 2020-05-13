@@ -1,3 +1,2 @@
 # Multivariate_response_function_Machine_Learning
 Machine_Learning_Ridge_regression
-file:///Y:/Chimera_Study/aa_Git/pymtrf_wo_example_data/pymtrf_wo_example_data/examples/Examples.html
